@@ -9,6 +9,8 @@ plugins {
 	id 'io.spring.nullability' version '0.0.4' apply false
 }
 
+// asdfasdfasdf
+
 ext {
 	moduleProjects = subprojects.findAll { it.name.startsWith("spring-") }
 	javaProjects = subprojects.findAll { !it.name.startsWith("framework-") }
