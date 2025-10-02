@@ -9,7 +9,7 @@ plugins {
 	id 'io.spring.nullability' version '0.0.4' apply false
 }
 
-// asdfasdfasdfasdf
+// afeatureb 수정 ㅁ어쩌굼ㅇㅈㄻㅈㄷㄻㅈㄷㄹ
 // asdfasdfasdf
 
 ext {
